@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Md Sadman Shahriar Sifat - Founder & CEO</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #0d6efd, #6610f2);
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+    header p {
+      margin-top: 10px;
+      font-size: 1.2rem;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      margin: 20px 0;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .card h2 {
+      margin-top: 0;
+      color: #0d6efd;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      background: #eef3ff;
+      margin: 8px 0;
+      padding: 10px;
+      border-radius: 8px;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    a {
+      color: #0d6efd;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .social-links a {
+      margin: 0 10px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Md Sadman Shahriar Sifat</h1>
+    <p>Founder & CEO | Computer Engineer | Web Developer | Digital Marketer</p>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>About Me</h2>
+      <p>Hello! I am Md Sadman Shahriar Sifat, a passionate computer engineer, web developer, and digital marketer. 
+      I love building modern websites and helping businesses grow through smart digital strategies.</p>
+    </div>
+
+    <div class="card">
+      <h2>Our Services</h2>
+      <ul>
+        <li>✅ Web Development (Shopify, Portfolio, Business Websites)</li>
+        <li>✅ Digital Marketing (Facebook Ads, Google Ads, SEO)</li>
+        <li>✅ Graphic Design (Logo, Banner, T-shirt Design)</li>
+        <li>✅ Email Marketing (Klaviyo, Shopify Email Setup)</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Contact Information</h2>
+      <p>Email: <a href="mailto:sadman8363@gmail.com">sadman8363@gmail.com</a></p>
+      <p>Phone: <a href="tel:+8801840122649">+8801840122649</a></p>
+    </div>
+
+    <div class="card">
+      <h2>Find Me Online</h2>
+      <div class="social-links">
+        <a href="https://facebook.com/sadman8363" target="_blank">Facebook</a> |
+        <a href="https://instagram.com/" target="_blank">Instagram</a> |
+        <a href="https://linkedin.com/in/mdsifat8363" target="_blank">LinkedIn</a> |
+        <a href="https://google.com/search?q=Md+Sadman+Shahriar+Sifat" target="_blank">Google</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Md Sadman Shahriar Sifat | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
